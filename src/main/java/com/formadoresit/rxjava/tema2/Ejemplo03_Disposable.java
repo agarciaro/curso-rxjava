@@ -26,7 +26,7 @@ public class Ejemplo03_Disposable {
         );
 
         System.out.println("¿Está disposed? " + disposable.isDisposed());
-        
+        Thread.sleep(1000);
         // El flujo ya terminó, ahora está disposed
         System.out.println("Después de completar: ¿Está disposed? " + disposable.isDisposed());
 

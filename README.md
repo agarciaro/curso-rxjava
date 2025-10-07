@@ -38,6 +38,7 @@ Antes de usar RxJava, entenderás cómo funciona la programación reactiva imple
 - `Ejemplo04_PublisherAsincrono.java` - Emisión asíncrona con threads
 - `Ejemplo05_CompletoPushVsPull.java` - Comparación Push vs Pull
 - `Ejemplo06_ImperativaVsReactivaPerformance.java` - Benchmark de rendimiento
+- `Ejemplo07_VentajaReactivaIO.java` ⭐ - **Ventaja real con I/O** (2-3x más rápido)
 
 **Conceptos clave:**
 - Push vs Pull
