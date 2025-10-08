@@ -212,3 +212,4 @@ public class Ejemplo07_OperadoresTiempo {
         System.out.println("• Polling: Consulta periódica de datos");
     }
 }
+
